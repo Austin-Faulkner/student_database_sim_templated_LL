@@ -6,13 +6,19 @@ Remark: at present the code needs some revision, especially in the area of try-c
 
 ## Example Registrar Input
 
+Prospector Gus Chiggins
 
-'Prospector Gus Chiggins'
-'A05371082'
+A05371082
+
 GEO
+
 2.13
-UT
+
+UT Austin
+
 1234 Goldrush Creek
+
 N/A
+
 Park_City Utah 78920
 
